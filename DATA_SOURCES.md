@@ -3,7 +3,7 @@
 - Source: FBIL (Financial Benchmarks India Pvt. Ltd.), G-Sec tab under Fixed Income Securities. File name: "FBIL GOI Prices including Par Yield, Special and Note on FRB and IIB"
 - Link: https://www.fbil.org.in/
 - File format: .xlsx, one file per valuation date. Each row is one government security with ISIN, coupon, maturity, price and YTM (semi-annual).
-- Files used so far: 2026-09-09, 2026-10-09, 2026-10-16 (more dates added on Day 2)
+- Files used: about 32 dates (the last 10 business days, Fridays from 31 Jul 2026, and month-ends or nearest business day back to 30 Jul 2025). FBIL returned duplicate files for some requested dates, and these were removed.
 - Downloaded on: 25 Oct 2026
 - Latest date available when downloaded: 16 Oct 2026 (the site publishes with a delay)
 
